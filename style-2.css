@@ -1,0 +1,28 @@
+.container{
+	width:80%;
+	margin: 0 auto
+}
+
+.introduction{
+	width:700px;
+	margin: 0 auto
+}
+
+.responsibility{
+	width:700px;
+	margin: 0 auto
+}
+
+.show-work{
+	width: 700px;
+	margin: 0 auto
+}
+
+nav{
+	width:80%;
+	margin: 0 auto
+}
+
+nav ul li{
+	margin:0 3%;
+}

@@ -1,0 +1,230 @@
+
+*{
+	margin:0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+
+
+
+
+body {
+	margin:0;
+	text-align: center;
+/*	font-family: "Microsoft YaHei",sans-serif;*/
+	font-family: 'Raleway', sans-serif;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+.container{
+	width: 94%;
+	margin: 0 auto
+}
+
+header{
+	margin:0;
+	padding: 0;
+	position: absolute;
+	left:0;
+	right:0;
+}
+
+.bigtitle {
+	color:#000000;
+	text-decoration: none;
+	font-weight:100;
+	font-style: bold;
+}
+
+h1{
+	font-size: 2rem;
+	padding: 0.5rem;
+	margin: 0;
+}
+
+/*.logo{
+	width:1rem;
+	position: absolute;
+	left:0.5rem;
+	top:1rem;
+}*/
+
+nav{
+	position:;
+}
+
+nav ul{
+	display: block;
+	text-align: center;
+	font-size: 1em;
+	list-style:none;
+	padding: 0;
+	margin:0;
+}
+
+nav ul li{
+	display: inline-block;
+	padding: 0.5rem;
+	list-style:none;
+	background-color: rgba(176,196,222,0.4);
+	border-radius: 2em;
+	margin: 1%;
+}
+
+nav ul li a:hover{
+	color:rgba(0,0,0,0.5);
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #FFF;
+	font-weight: 900;
+	font-size: 0.9rem;
+}
+
+/*main body
+-------------------*/
+.introduction{
+	background-image: url(../img/introduction.jpg);
+	padding: 5em 0;
+	color: #FFF;
+	background-size: cover;
+	background-position: center;
+	padding-top: 8rem;
+}
+
+.sub-title-1{
+	margin-bottom: 0.5rem;
+	padding:1rem;
+	text-align: center;
+}
+
+.main-info-1{
+	text-align: left;
+	background-color: rgba(0,139,139,0.25);
+	font-size: 0.9rem;
+	padding:0.8rem;
+	border-radius: 1rem;
+	width: 70%;
+	margin: 0 auto;
+}
+
+
+.responsibility{
+	background-image: url(../img/welcome.jpg);
+	padding: 3em 0;
+	color: #FFF;
+	background-size: cover;
+	background-position: center;
+	padding-top: 1rem;
+}
+
+.sub-title-2{
+	margin:1rem;
+}
+
+.main-info-2{
+	text-align: left;
+	font-size: 0.9rem;
+	padding-top: 1rem;
+	background-color: rgba(0,139,139,0.25);
+	padding:0.8rem;
+	border-radius: 1rem;
+	width: 70%;
+	margin: 0 auto;
+}
+
+button{
+	border:2px rgba(255,255,255,0.5);
+	background: rgba(255,255,255,0.5);
+	margin-top:4em;
+	padding: 0.5rem 2rem;
+	border-radius: 1rem;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+
+button a{
+	text-decoration: none;
+	color:#FFF;
+	font-weight: lighter;
+}
+
+button:hover{
+	background-color:rgba(255,255,255,0.7);
+}
+
+
+
+.show-work{
+	background-image: url(../img/share.jpg);
+	padding: 2em 0;
+	color: #FFF;
+	background-size: cover;
+	background-position: center;
+	padding-top: 1rem;
+
+}
+
+figure{
+	padding-top: 0.8rem;
+	width:50%;
+	display: block;
+	float: left;
+	opacity: 0.75;
+}
+
+figurecaption{
+	font-size: 0.7rem;
+	margin:0;
+}
+
+.slogan{
+	font-size: 2rem;
+	text-align: center;
+	font-weight: bolder;
+}
+
+.upload{
+	margin: 0;
+}
+
+
+footer ul li{
+	display: inline-block;
+	font-size: 0.5rem;
+	padding:0 1rem;
+}
+
+footer ul li a{
+	text-decoration: none;
+	color: #000000;
+}
+
+footer{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
